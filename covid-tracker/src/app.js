@@ -25,11 +25,11 @@ class App extends React.Component {
         <img className={styles.image} src={coronaImage} alt="COVID-19" />
         <br />
         <text>
-          <b>Global and Country Wise Cases of Corona Virus</b>
+          <b>Global and Country Wide Cases of The Corona Virus</b>
         </text>
         <br />
         <text>
-          <i>(For a Particlar select a Country from below)</i>
+          <i>Select a Country Below</i>
         </text>
         <br />
         <br />
