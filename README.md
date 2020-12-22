@@ -1,1 +1,1 @@
-# covid19tracker
+Go to https://covid-19-tracker-2fea6.web.app/ to look at my Covid 19 tracker.I used  Chart.js to show all of the charts with the number of cases for the recovered,infected,active,and deaths. React and NodeJS  were used for the backend.
